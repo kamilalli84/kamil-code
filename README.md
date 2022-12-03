@@ -5,3 +5,7 @@ November
 getting from staging to wroking area
 Git branching stategy
 Git merging strategy
+
+
+
+Added a branch dev
