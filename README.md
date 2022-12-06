@@ -10,3 +10,6 @@ Git merging stategy
 
 This code is condirmed as clear
 # Please do not make any changes
+
+Introduce git stash
+# kamil-code
