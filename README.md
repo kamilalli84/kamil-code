@@ -13,3 +13,5 @@ This code is condirmed as clear
 
 Introduce git stash
 # kamil-code
+efkefjeifejfiejfeif
+#jnnkfdvmemmke
