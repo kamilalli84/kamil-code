@@ -1,0 +1,16 @@
+Aliases:
+st = status
+co = checkout
+ci = commit
+me = merge
+r = remote
+rs = reset
+pl = pull
+ps = push
+rv = revert
+rb = rebase
+l = log
+br = branch
+sh = show
+fe = fetch
+cl = clone
